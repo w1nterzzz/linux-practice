@@ -1,0 +1,3 @@
+Linux practice notes
+Current user: parallels
+Project: ROS2 mobile robot
